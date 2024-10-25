@@ -1,9 +1,7 @@
 /**
-* Template Name: UpConstruction
-* Template URL: https://bootstrapmade.com/upconstruction-bootstrap-construction-website-template/
-* Updated: Aug 07 2024 with Bootstrap v5.3.3
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Objetiva Contabilidade
+* Updated: Out 23 2024 with Bootstrap v5.3.3
+* Author: João Carvalho
 */
 
 (function() {
@@ -96,8 +94,8 @@
     AOS.init({
       duration: 600,
       easing: 'ease-in-out',
-      once: true,
-      mirror: false
+      //once: true,
+      //mirror: false
     });
   }
   window.addEventListener('load', aosInit);
